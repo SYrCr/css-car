@@ -6,4 +6,3 @@
 
 Чтобы посмотреть результат, откройте `index.html` в браузере.
 
-Для публикации через GitHub Pages: Settings → Pages → Deploy from a branch → main → / (root) → Save.
